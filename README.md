@@ -11,9 +11,6 @@ This repository contains my contributions to an aeromodelling project, focusing 
 
 ## Fuselage
 
-### Top View
-![Fuselage Top](images/fuselage/fuselage top view.png)
-
 ### Isometric View
 ![Fuselage Iso](images/fuselage/fuselage_iso.png)
 
@@ -21,8 +18,8 @@ This repository contains my contributions to an aeromodelling project, focusing 
 
 ## Wing
 
-### Top View
-![Wing Top](images/wing/wing top view.png)
+### Isometric View
+![Wing Iso](images/wing/wing_iso.png)
 
 ---
 
